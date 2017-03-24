@@ -1,0 +1,15 @@
+{
+  "name": "ghoneycutt-includecsv",
+  "version": "0.1.0",
+  "author": "ghoneycutt",
+  "summary": "Includes a comma separated list of classes",
+  "description": "Includes a comma separated list of classes",
+  "license": "Apache-2.0",
+  "source": "git://github.com/ghoneycutt/puppet-module-includecsv.git",
+  "project_page": "https://github.com/ghoneycutt/puppet-module-includecsv",
+  "issues_url": "https://github.com/ghoneycutt/puppet-module-includecsv/issues",
+  "requirements": [
+    {"name":"puppet","version_requirement":">= 3.0.0 < 5.0.0"}
+  ],
+  "dependencies": []
+}

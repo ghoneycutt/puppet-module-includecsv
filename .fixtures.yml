@@ -1,0 +1,13 @@
+fixtures:
+  repositories:
+    dnsclient:
+      repo: 'https://github.com/ghoneycutt/puppet-module-dnsclient.git'
+      ref: 'v3.5.2'
+    inittab:
+      repo: 'https://github.com/ghoneycutt/puppet-module-inittab.git'
+      ref: 'v2.9.1'
+    stdlib:
+      repo: 'https://github.com/puppetlabs/puppetlabs-stdlib.git'
+      ref: '4.6.0'
+  symlinks:
+    includecsv: "#{source_dir}"
